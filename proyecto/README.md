@@ -8,8 +8,7 @@
 He elegido este tema porque el estudio de Historia del Arte, Latín y Griego durante el Bachillerato me fascinó y marcó profundamente mi interés por el mundo clásico. Además, me apasiona la historia antigua de mi propia ciudad, Sevilla, desde sus orígenes hasta su esplendor romano en Hispalis e Itálica. Esta temática me permite estructurar datos muy variados como monumentos, fechas históricas, ubicaciones y datos numéricos de forma clara tanto en HTML como en XML.
 
 ## Palabra del día
-* **Palabra:** [Escribe aquí la palabra dictada por la docente en clase]
-
+* **Palabra:** meta
 ---
 
 ## Qué he hecho en esta entrega
